@@ -33,7 +33,7 @@ hi, i'm Caeden, an inspiring developer who is trying to learn as many languages 
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=caedenph&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=caedenph&show_icons=true&theme=gotham" alt="abhisheknaiidu" width="100px"/>
 
 
 
