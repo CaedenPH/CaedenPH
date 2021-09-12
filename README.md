@@ -22,6 +22,9 @@ My name is Caeden and I'm a developer. I live in the UK, but I was born in the U
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 
 </details>
+
+<details style="cursor: pointer;" open>
+  
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/CaedenPH/CaedenPH">
@@ -39,7 +42,7 @@ My name is Caeden and I'm a developer. I live in the UK, but I was born in the U
 <a href="https://github.com/CaedenPH/jesterbot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CaedenPH&repo=JesterBot&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
   
-  
+  </details>
 </a>    
 
 <!-- links to social media icons -->
