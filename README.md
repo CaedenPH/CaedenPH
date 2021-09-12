@@ -6,6 +6,9 @@
 
 My name is Caeden and I'm a developer. I live in the UK, but I was born in the USA, and you can find me on discord [here](https://discord.gg/35QWkrf8Xj). My discord tag is `Fred™#7205`
 
+
+<details style="cursor: pointer;" open>
+  <summary>Statistics</summary>
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Distro-Monjaro-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -18,6 +21,7 @@ My name is Caeden and I'm a developer. I live in the UK, but I was born in the U
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 
+</details>
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/CaedenPH/CaedenPH">
