@@ -2,13 +2,9 @@
 
 [![Header](https://raw.githubusercontent.com/CaedenPH/CaedenPH/master/readme_header.png "Header")](https://CaedenPH.dev/)
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/CaedenPH/CaedenPH/master/wave.gif" width="30px">
+# Hello there! 👋
 
 My name is Caeden and I'm a developer. I live in the UK, but I was born in the USA, and you can find me on discord [here](https://discord.gg/35QWkrf8Xj)
-
-## &#x270d; Blog & Writing
-
-Apart from coding, I also maintain a blog - you can find my articles on my website at [CaedenPH.dev](https://CaedenPH.dev/) as well as on [Medium](https://medium.com/@martin.heinz) and [DEV.to](https://dev.to/CaedenPH).
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
