@@ -12,6 +12,5 @@
   </p>
   <div style="display: flex; text-align: center; position: relative; left: 50%; transform: translateX(-50px);" align="center">
    
-  </div>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=caedenph&count_private=true&show_icons=true&include_all_commits=true)
