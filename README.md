@@ -34,13 +34,13 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=CaedenPH&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
 
-<a href="https://github.com/CaedenPH/python-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CaedenPH&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/CaedenPH/custom-commands">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CaedenPH&repo=custom-commands&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
-<a href="https://github.com/CaedenPH/go-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CaedenPH&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/CaedenPH/jesterbot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CaedenPH&repo=jesterbot&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
 <!-- links to social media icons -->
@@ -61,7 +61,6 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 [1]: https://twitter.com/Martin_Heinz_
 [2]: https://github.com/CaedenPH
-[3]: https://www.linkedin.com/in/heinz-martin/
 
 
 <!-- Resources -->
