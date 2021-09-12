@@ -1,7 +1,5 @@
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
-[![Header](https://raw.githubusercontent.com/CaedenPH/CaedenPH/master/readme_header.png "Header")](https://CaedenPH.dev/)
-
 # Hello there! 👋
 
 My name is Caeden and I'm a developer. I live in the UK, but I was born in the USA, and you can find me on discord [here](https://discord.gg/35QWkrf8Xj)
