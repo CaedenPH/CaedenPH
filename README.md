@@ -1,6 +1,6 @@
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
-![](https://komarev.com/ghpvc/?username=CaedenPH&style=flat-square) ![](https://github.com/CaedenPH)
+![](https://komarev.com/ghpvc/?username=CaedenPH&style=flat-square) [](https://github.com/CaedenPH)
 
 # Hello there! 👋
 
