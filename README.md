@@ -8,7 +8,7 @@ My name is Caeden and I'm a developer. I live in the UK, but I was born in the U
 
 
 <details style="cursor: pointer;" open>
-  <summary>Statistics</summary>
+  
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Distro-Monjaro-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
