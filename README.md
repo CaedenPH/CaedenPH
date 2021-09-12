@@ -7,7 +7,7 @@
 My name is Caeden and I'm a developer. I live in the UK, but I was born in the USA, and you can find me on discord [here](https://discord.gg/35QWkrf8Xj). My discord tag is `Fred™#7205`
 
 
-<technologies style="cursor: pointer;" open>
+<details style="cursor: pointer;" open>
   
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -21,9 +21,9 @@ My name is Caeden and I'm a developer. I live in the UK, but I was born in the U
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 
-</technologies>
+</details>
 
-<stats style="cursor: pointer;" open>
+<details style="cursor: pointer;" open>
   
 ## &#x1f4c8; GitHub Stats
 
@@ -42,7 +42,7 @@ My name is Caeden and I'm a developer. I live in the UK, but I was born in the U
 <a href="https://github.com/CaedenPH/jesterbot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CaedenPH&repo=JesterBot&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
   
-  </stats>
+  </details>
 </a>    
 
 <!-- links to social media icons -->
