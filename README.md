@@ -7,7 +7,7 @@
 My name is Caeden and I'm a developer. I live in the UK, but I was born in the USA, and you can find me on discord [here](https://discord.gg/35QWkrf8Xj). My discord tag is `Fred™#7205`
 
 
-<details style="cursor: pointer;" open>
+<technologies style="cursor: pointer;" open>
   
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -23,7 +23,7 @@ My name is Caeden and I'm a developer. I live in the UK, but I was born in the U
 
 </details>
 
-<details style="cursor: pointer;" open>
+<github stats style="cursor: pointer;" open>
   
 ## &#x1f4c8; GitHub Stats
 
