@@ -35,6 +35,9 @@ My name is Caeden and I'm a developer. I live in the UK, but I was born in the U
 
 <a href="https://github.com/CaedenPH/jesterbot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CaedenPH&repo=jesterbot&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  
+[](https://komarev.com/ghpvc/?username=CaedenPH&style=flat-square)
+  
 </a>    
 
 <!-- links to social media icons -->
