@@ -1,5 +1,7 @@
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
+[](https://komarev.com/ghpvc/?username=CaedenPH&style=flat-square)
+
 # Hello there! 👋
 
 My name is Caeden and I'm a developer. I live in the UK, but I was born in the USA, and you can find me on discord [here](https://discord.gg/35QWkrf8Xj). My discord tag is Fred™#7205
@@ -36,7 +38,6 @@ My name is Caeden and I'm a developer. I live in the UK, but I was born in the U
 <a href="https://github.com/CaedenPH/jesterbot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CaedenPH&repo=jesterbot&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
   
-[](https://komarev.com/ghpvc/?username=CaedenPH&style=flat-square)
   
 </a>    
 
