@@ -56,7 +56,7 @@ My name is Caeden and I'm a developer. I live in the UK, but I was born in the U
 [1]: https://twitter.com/Martin_Heinz_
 [2]: https://github.com/CaedenPH
 
-
+[](https://komarev.com/ghpvc/?username=CaedenPH&style=flat-square)
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
 <!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
