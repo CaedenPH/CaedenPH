@@ -4,7 +4,7 @@
 
 # Hello there! 👋
 
-My name is Caeden and I'm a developer. I live in the UK, but I was born in the USA, and you can find me on discord [here](https://discord.gg/35QWkrf8Xj). My discord tag is Fred™#7205
+My name is Caeden and I'm a developer. I live in the UK, but I was born in the USA, and you can find me on discord [here](https://discord.gg/35QWkrf8Xj). My discord tag is `Fred™#7205`
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -54,13 +54,6 @@ My name is Caeden and I'm a developer. I live in the UK, but I was born in the U
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
 [3.2]: https://raw.githubusercontent.com/CaedenPH/CaedenPH/master/linkedin-3-16.png (LinkedIn icon without padding)
 
-
-<!-- links to your social media accounts -->
-
-[1]: https://twitter.com/Martin_Heinz_
-[2]: https://github.com/CaedenPH
-
-[](https://komarev.com/ghpvc/?username=CaedenPH&style=flat-square)
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
 <!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
