@@ -4,7 +4,7 @@
 
 # Hello there! 👋
 
-My name is Caeden and I'm a developer. I live in the UK, but I was born in the USA, and you can find me on discord [here](https://discord.gg/35QWkrf8Xj). My discord tag is `Caeden#7205`
+My name is Caeden and I'm a developer. I live in the UK, but I was born in the USA. My discord tag is `Caeden#7205`
 
 
 <details style="cursor: pointer;" open>
