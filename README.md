@@ -33,14 +33,6 @@ My name is Caeden and I'm a developer. I live in the UK, but I was born in the U
 <a href="https://github.com/CaedenPH/CaedenPH">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=CaedenPH&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
-
-<a href="https://github.com/CaedenPH/custom-commands">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CaedenPH&repo=CustomCommands&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-
-<a href="https://github.com/CaedenPH/jesterbot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CaedenPH&repo=JesterBot&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
   
   </details>
 </a>    
