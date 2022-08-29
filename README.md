@@ -11,15 +11,55 @@ My name is Caeden and I'm a developer. I live in the UK, but I was born in the U
  
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Distro-Manjaro-informational?style=flat&logo=manjaro&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Distro-Fedora-informational?style=flat&logo=fedora&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VSC-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
+
+ 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Cpp-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
+ 
+ 
+![](https://img.shields.io/badge/Web-Html5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Web-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Web-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+
+ 
+![](https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=angular&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Electron-informational?style=flat&logo=electron&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Qt-informational?style=flat&logo=qt&logoColor=white&color=2bbc8a)
+
+ 
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Powershell-informational?style=flat&logo=powershell&logoColor=white&color=2bbc8a)
+
+ 
+![](https://img.shields.io/badge/Tools-Leetcode-informational?style=flat&logo=leetcode&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Regular%20Expression-informational?style=flatColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Pypi-informational?style=flat&logo=pypi&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=2bbc8a)
+ ![](https://img.shields.io/badge/Tools-Selenium-informational?style=flat&logo=selenium&logoColor=white&color=2bbc8a)
+ 
+ 
+![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Database-Sqlite-informational?style=flat&logo=sqlite&Color=white&color=2bbc8a)
+
+ 
+![](https://img.shields.io/badge/Cloud-AWS%20EC2-informational?style=flat&logo=Amazon%20EC2&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Replit-informational?style=flat&logo=replit&logoColor=white&color=2bbc8a)
+
+
+![](https://img.shields.io/badge/Technologies-Raspberry%20pi-informational?style=flat&logo=raspberry%20pi&logoColor=white&color=2bbc8a)
+ 
+ 
+![](https://img.shields.io/badge/Standards-Conventional%20Commits-informational?style=flat&logo=Conventional%20Commits&logoColor=white&color=2bbc8a)
+
+ 
+![](https://img.shields.io/badge/Browser-Firefox-informational?style=flat&logo=firefox&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Browser-Chrome-informational?style=flat&logo=google%20chrome&logoColor=white&color=2bbc8a)
 
 </details>
 
