@@ -7,8 +7,6 @@
 ## About  me
 - My name is Caeden and I live in the UK
 - I am currently working as a software developer for dealermetrics.
-- 
-
 
 
 ## Contact me
@@ -32,7 +30,7 @@
 </a>
 
  
-## 🔧 Technologies & Tools
+## Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Distro-Fedora-informational?style=for-the-badge&logo=fedora&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VSC-informational?style=for-the-badge&logo=visualstudiocode&logoColor=white&color=2bbc8a)
@@ -82,12 +80,12 @@
 ![](https://img.shields.io/badge/Browser-Chrome-informational?style=for-the-badge&logo=google%20chrome&logoColor=white&color=2bbc8a)
 
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 [![Caeden's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=caedenph&theme=xcode)](https://github.com/caedenph)
   
 
-## &#x1f4c8; GitHub Stats
+## GitHub Stats
 
 <a href="https://github.com/CaedenPH/CaedenPH">
   <img width="33%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=caedenph&layout=compact&langs_count=8&theme=dark"/>
