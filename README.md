@@ -81,33 +81,16 @@
 ![](https://img.shields.io/badge/Browser-Firefox-informational?style=for-the-badge&logo=firefox&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Browser-Chrome-informational?style=for-the-badge&logo=google%20chrome&logoColor=white&color=2bbc8a)
 
+
+## 📈 Contribution Graph
+
+[![Caeden's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=caedenph&theme=xcode)](https://github.com/caedenph)
   
+
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/CaedenPH/CaedenPH">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaedenPH&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img width="33%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=caedenph&layout=compact&langs_count=8&theme=dark"/>
+  <img width="45.5%" src="https://github-readme-stats.vercel.app/api?username=caedenph&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img  width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=caedenph&show_icons=true&locale=en&layout=demo&theme=dark&hide_border=true&count_private=true" />
 </a>
-<a href="https://github.com/CaedenPH/CaedenPH">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CaedenPH&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a>
-
-
-<!-- links to social media icons -->
-
-<!-- icons with padding -->
-
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-
-<!-- icons without padding -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/CaedenPH/CaedenPH/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-<!-- Resources -->
-<!-- Icons: https://simpleicons.org/ -->
-<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
-<!-- Emojis: https://emojipedia.org/emoji/ -->
-<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
-<!-- Shields: https://shields.io/ -->
