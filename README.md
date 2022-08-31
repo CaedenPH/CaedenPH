@@ -44,6 +44,7 @@
 ![](https://img.shields.io/badge/Web-CSS-informational?style=for-the-badge&logo=css3&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Web-Javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Web-Bootstrap-informational?style=for-the-badge&logo=bootstrap&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Web-EJS-informational?style=for-the-badge&logo=ejs&logoColor=white&color=2bbc8a)
  
 ![](https://img.shields.io/badge/Framework-Angular-informational?style=for-the-badge&logo=angular&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Electron-informational?style=for-the-badge&logo=electron&logoColor=white&color=2bbc8a)
@@ -65,10 +66,6 @@
 
 ![](https://img.shields.io/badge/Cloud-AWS%20EC2-informational?style=for-the-badge&logo=Amazon%20EC2&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Raspberry%20pi-informational?style=for-the-badge&logo=raspberry%20pi&logoColor=white&color=2bbc8a)
- 
-![](https://img.shields.io/badge/Standards-Conventional%20Commits-informational?style=for-the-badge&logo=Conventional%20Commits&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Standards-Pre%20commit-informational?style=for-the-badge&logo=pre-commit&logoColor=white&color=2bbc8a)
-
 
 
 ## Contribution Graph
