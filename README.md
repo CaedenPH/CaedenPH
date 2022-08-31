@@ -1,6 +1,6 @@
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
-![](https://komarev.com/ghpvc/?username=CaedenPH&style=flat-square) [](https://github.com/CaedenPH)
+![](https://komarev.com/ghpvc/?username=CaedenPH&style=for-the-badge-square) [](https://github.com/CaedenPH)
 
 # Hello there! 👋
 
@@ -26,53 +26,53 @@ My name is Caeden and I'm a developer in UK.
 
  
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Distro-Fedora-informational?style=flat&logo=fedora&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-VSC-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Distro-Fedora-informational?style=for-the-badge&logo=fedora&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-VSC-informational?style=for-the-badge&logo=visualstudiocode&logoColor=white&color=2bbc8a)
 
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Typescript-informational?style=for-the-badge&logo=typescript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Node.js-informational?style=for-the-badge&logo=node.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Java-informational?style=for-the-badge&logo=java&logoColor=white&color=2bbc8a)
  
-![](https://img.shields.io/badge/Web-Html5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Web-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Web-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Web-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Web-Html5-informational?style=for-the-badge&logo=html5&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Web-CSS-informational?style=for-the-badge&logo=css3&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Web-Javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Web-Bootstrap-informational?style=for-the-badge&logo=bootstrap&logoColor=white&color=2bbc8a)
  
-![](https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=angular&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-Electron-informational?style=flat&logo=electron&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-Qt-informational?style=flat&logo=qt&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-Selenium-informational?style=flat&logo=selenium&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-Fastapi-informational?style=flat&logo=fastapi&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-Aiohttp-informational?style=flat&logo=aiohttp&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Angular-informational?style=for-the-badge&logo=angular&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Electron-informational?style=for-the-badge&logo=electron&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Qt-informational?style=for-the-badge&logo=qt&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Selenium-informational?style=for-the-badge&logo=selenium&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Fastapi-informational?style=for-the-badge&logo=fastapi&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Aiohttp-informational?style=for-the-badge&logo=aiohttp&logoColor=white&color=2bbc8a)
  
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Powershell-informational?style=flat&logo=powershell&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Powershell-informational?style=for-the-badge&logo=powershell&logoColor=white&color=2bbc8a)
  
-![](https://img.shields.io/badge/Tools-Leetcode-informational?style=flat&logo=leetcode&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Regex-informational?style=flatColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-PyPi-informational?style=flat&logo=pypi&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-JWT-informational?style=flat&logo=jsonwebtokens&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Stripe-informational?style=flat&logo=stripe&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Electron%20builder-informational?style=flat&logo=electron-builder&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Leetcode-informational?style=for-the-badge&logo=leetcode&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Regex-informational?style=for-the-badge&Color=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Postman-informational?style=for-the-badge&logo=postman&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-PyPi-informational?style=for-the-badge&logo=pypi&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Git-informational?style=for-the-badge&logo=git&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=for-the-badge&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-JWT-informational?style=for-the-badge&logo=jsonwebtokens&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Stripe-informational?style=for-the-badge&logo=stripe&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Electron%20builder-informational?style=for-the-badge&logo=electron-builder&logoColor=white&color=2bbc8a)
  
-![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Database-Sqlite-informational?style=flat&logo=sqlite&Color=white&color=2bbc8a)
+![](https://img.shields.io/badge/Database-MongoDB-informational?style=for-the-badge&logo=mongodb&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Database-Sqlite-informational?style=for-the-badge&logo=sqlite&Color=white&color=2bbc8a)
 
-![](https://img.shields.io/badge/Cloud-AWS%20EC2-informational?style=flat&logo=Amazon%20EC2&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Replit-informational?style=flat&logo=replit&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-AWS%20EC2-informational?style=for-the-badge&logo=Amazon%20EC2&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-Replit-informational?style=for-the-badge&logo=replit&logoColor=white&color=2bbc8a)
 
-![](https://img.shields.io/badge/Technologies-Raspberry%20pi-informational?style=flat&logo=raspberry%20pi&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Technologies-Raspberry%20pi-informational?style=for-the-badge&logo=raspberry%20pi&logoColor=white&color=2bbc8a)
  
-![](https://img.shields.io/badge/Standards-Conventional%20Commits-informational?style=flat&logo=Conventional%20Commits&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Standards-Pre%20commit-informational?style=flat&logo=pre-commit&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Standards-Conventional%20Commits-informational?style=for-the-badge&logo=Conventional%20Commits&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Standards-Pre%20commit-informational?style=for-the-badge&logo=pre-commit&logoColor=white&color=2bbc8a)
 
-![](https://img.shields.io/badge/Browser-Firefox-informational?style=flat&logo=firefox&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Browser-Chrome-informational?style=flat&logo=google%20chrome&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Browser-Firefox-informational?style=for-the-badge&logo=firefox&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Browser-Chrome-informational?style=for-the-badge&logo=google%20chrome&logoColor=white&color=2bbc8a)
 
   
 ## &#x1f4c8; GitHub Stats
