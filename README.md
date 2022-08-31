@@ -4,10 +4,14 @@
 
 # Hello there! 👋
 
-My name is Caeden and I'm a developer in UK.
+## About  me
+- My name is Caeden and I live in the UK
+- I am currently working as a software developer for dealermetrics.
+- 
 
 
-## Contact me:
+
+## Contact me
 <a href="https://www.linkedin.com/in/caeden-ph-7788bb24a/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=2bbc8a" />
 </a>
@@ -16,6 +20,9 @@ My name is Caeden and I'm a developer in UK.
 </a>
 <a href="https://leetcode.com/caedenph/">
     <img src="https://img.shields.io/badge/leetcode-%230077B5?style=for-the-badge&logo=leetcode&logoColor=white&color=2bbc8a" />
+</a>
+<a href="mailto:caedenperelliharris@gmail.com">
+    <img src="https://img.shields.io/badge/email-%230077B5?style=for-the-badge&logo=gmail&logoColor=white&color=2bbc8a" />
 </a>
 <a href="https://www.instagram.com/caedenperelliharris/">
     <img src="https://img.shields.io/badge/instagram-%230077B5?style=for-the-badge&logo=instagram&logoColor=white&color=2bbc8a" />
