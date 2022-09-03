@@ -63,6 +63,7 @@
  
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=for-the-badge&logo=mongodb&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Database-Sqlite-informational?style=for-the-badge&logo=sqlite&Color=white&color=2bbc8a)
+![](https://img.shields.io/badge/Database-DynamoDB-informational?style=for-the-badge&logo=amazondynamodb&Color=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/Cloud-AWS%20EC2-informational?style=for-the-badge&logo=Amazon%20EC2&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Raspberry%20pi-informational?style=for-the-badge&logo=raspberry%20pi&logoColor=white&color=2bbc8a)
