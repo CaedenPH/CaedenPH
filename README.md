@@ -51,7 +51,6 @@
 ![](https://img.shields.io/badge/Framework-Qt-informational?style=for-the-badge&logo=qt&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Selenium-informational?style=for-the-badge&logo=selenium&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Fastapi-informational?style=for-the-badge&logo=fastapi&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-Aiohttp-informational?style=for-the-badge&logo=aiohttp&logoColor=white&color=2bbc8a)
  
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=for-the-badge&logo=postman&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Regex-informational?style=for-the-badge&Color=white&color=2bbc8a)
