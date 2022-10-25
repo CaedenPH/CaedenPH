@@ -1,5 +1,3 @@
-<!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
-
 ![](https://komarev.com/ghpvc/?username=CaedenPH&style=for-the-badge-square) [](https://github.com/CaedenPH)
 
 # Hello there! 👋
@@ -76,7 +74,7 @@
 ## GitHub Stats
 
 <a href="https://github.com/CaedenPH/CaedenPH">
-  <img width="33%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=caedenph&layout=compact&langs_count=8&theme=dark"/>
+  <img width="33%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=caedenph&layout=compact&langs_count=8&theme=dark&hide=css,scss"/>
   <img width="45.5%" src="https://github-readme-stats.vercel.app/api?username=caedenph&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img  width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=caedenph&show_icons=true&locale=en&layout=demo&theme=dark&hide_border=true&count_private=true" />
 </a>
