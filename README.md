@@ -64,17 +64,12 @@
 
 ![](https://img.shields.io/badge/Cloud-AWS%20EC2-informational?style=for-the-badge&logo=Amazon%20EC2&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Raspberry%20pi-informational?style=for-the-badge&logo=raspberry%20pi&logoColor=white&color=2bbc8a)
-
-
-## Contribution Graph
-
-[![Caeden's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=caedenph&theme=xcode)](https://github.com/caedenph)
   
 
 ## GitHub Stats
 
 <a href="https://github.com/CaedenPH/CaedenPH">
-  <img width="33%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=caedenph&layout=compact&langs_count=8&theme=dark&hide=css,scss"/>
-  <img width="45.5%" src="https://github-readme-stats.vercel.app/api?username=caedenph&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img  width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=caedenph&show_icons=true&locale=en&layout=demo&theme=dark&hide_border=true&count_private=true" />
+  <img width="35%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=caedenph&layout=compact&langs_count=8&theme=dark&hide=css,scss"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=caedenph&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img  width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=caedenph&show_icons=true&locale=en&layout=demo&theme=dark&hide_border=true&count_private=true" />
 </a>
