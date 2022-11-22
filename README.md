@@ -63,6 +63,8 @@
 ![](https://img.shields.io/badge/Database-DynamoDB-informational?style=for-the-badge&logo=amazondynamodb&Color=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/Cloud-AWS%20EC2-informational?style=for-the-badge&logo=Amazon%20EC2&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-Azure-informational?style=for-the-badge&logo=microsoft%20azure&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-Heroku-informational?style=for-the-badge&logo=heroku&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Raspberry%20pi-informational?style=for-the-badge&logo=raspberry%20pi&logoColor=white&color=2bbc8a)
   
 
