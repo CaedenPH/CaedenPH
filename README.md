@@ -57,6 +57,9 @@
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=for-the-badge&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-JWT-informational?style=for-the-badge&logo=jsonwebtokens&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Stripe-informational?style=for-the-badge&logo=stripe&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Pre%20Commit-informational?style=for-the-badge&logo=pre-commit&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Auth0-informational?style=for-the-badge&logo=auth0&logoColor=white&color=2bbc8a)
+
  
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=for-the-badge&logo=mongodb&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Database-Sqlite-informational?style=for-the-badge&logo=sqlite&Color=white&color=2bbc8a)
