@@ -3,11 +3,12 @@
 # Hello there! 👋
 
 ## About  me
-- My name is Caeden and I live in the UK
-- I am currently working as a software developer for dealermetrics.
+My name is Caeden Perelli-Harris and I live in the UK.
+- Since April 2022, I have been employed as a part-time software engineer for [Dealermetrics](https://github.com/Dealermetrics).
+- I enjoy playing district level badminton and taking part in Badminton England tournaments
+- My favourite sport is Skiing.
 
-
-## Contact me
+## Find me on
 <a href="https://www.linkedin.com/in/caeden-ph-7788bb24a/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=2bbc8a" />
 </a>
