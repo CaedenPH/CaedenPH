@@ -8,6 +8,8 @@ My name is Caeden Perelli-Harris and I live in the UK.
 - I enjoy playing district level badminton and taking part in Badminton England tournaments
 - My favourite sport is Skiing.
 
+Make sure to check out my [gists](https://gist.github.com/CaedenPH)
+
 ## Find me on
 <a href="https://www.linkedin.com/in/caeden-ph-7788bb24a/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=2bbc8a" />
